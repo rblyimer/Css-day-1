@@ -1,0 +1,27 @@
+h1 {
+    color: cyan;
+    background-image: url('images/dark-gradient-background-with-copy-space_53876-99548.webp')
+}
+h2 {
+    color: aquamarine;
+    background-image: url('images/dark-gradient-background-with-copy-space_53876-99548.webp')
+}
+p{background-color: aliceblue;}
+body {
+    background-image: url('images/vivid-blurred-colorful-wallpaper-background.jpg');
+    background-attachment: fixed;
+  background-size: cover;
+  }
+  table, th, td {
+    border: 3px ridge white;
+    border-collapse: collapse;
+  }
+  tr:nth-child(even) {
+    background-color: rgba(150, 212, 212, 0.4);
+  }
+  
+  th:nth-child(even),td:nth-child(even) {
+    background-color: rgba(150, 212, 212, 0.4);
+  }
+  tr:hover {background-color: #faa657;}
+  
